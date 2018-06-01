@@ -37,17 +37,19 @@ public class ListIterator {
 		
 		System.out.println(litr);
 	
-		// TODO Auto-generated method stub
+
 
 	}
 
+	private void remove() {
+		
+	}
+
 	private String next() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	private boolean hasNext() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
